@@ -1,0 +1,12 @@
+Algoritmo ejercicio4
+	definir llueve como texto;
+	llueve = "llev� paraguas!"
+	Escribir "esta lloviendo?"
+	leer llueve
+	Si llueve Entonces
+		escribir "llev� paraguas" o "sali corriendo";
+	SiNo
+		escribir "no llueve anda tranqui"
+	Fin Si
+	
+FinAlgoritmo
